@@ -1,24 +1,20 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Banner"/>
+# 👋 Olá, eu sou Guilherme
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%7C+Next.js+%7C+Python;UI%2FUX+Designer;Sempre+aprendendo+algo+novo!" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=👋+Olá,+eu+sou+Guilherme!;💻+Front-End+Developer;⚛️+React+•+Next.js+•+Python;🚀+Sempre+aprendendo+algo+novo!" />
-
-<br>
-
-<img src="https://media.tenor.com/4M57Q0j8kS8AAAAi/gengar-pokemon.gif" width="170"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mim
+# 💻 Sobre mim
 
-```ts
-const Guilherme = {
-    nome: "Guilherme",
+```javascript
+const guilherme = {
+    idade: 16,
     curso: "Técnico em Informática - IFAL",
     foco: "Front-End",
     linguagens: [
@@ -31,34 +27,27 @@ const Guilherme = {
         "Next.js",
         "Tailwind CSS"
     ],
-    ferramentas: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Figma"
-    ],
     hobbies: [
-        "🤖 Robótica",
-        "🎨 Design",
-        "💻 Programação",
-        "🎮 Games"
+        "Robótica 🤖",
+        "Design 🎨",
+        "Programação 💻"
     ]
 }
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,tailwind,nodejs,html,css,git,github,vscode,figma,vercel&perline=7"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,tailwind,nodejs,html,css,git,github,vscode,figma,vercel" />
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Estatísticas
 
 <div align="center">
 
@@ -70,7 +59,7 @@ const Guilherme = {
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Streak
 
 <div align="center">
 
@@ -80,7 +69,17 @@ const Guilherme = {
 
 ---
 
-# 📈 Contribuições
+# 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=guizin104&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📈 Atividade
 
 <div align="center">
 
@@ -90,66 +89,36 @@ const Guilherme = {
 
 ---
 
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=guizin104&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
 # 🚀 Projetos
 
-## ⭐ FitScore
+⭐ FitScore
 
-🏋️ Plataforma fitness moderna desenvolvida com React.
+Sistema Fitness moderno.
 
----
+⭐ Caderneta
 
-## ⭐ Caderneta
+Sistema para gerenciamento de clientes e pagamentos.
 
-📒 Sistema para gerenciamento de clientes, compras e pagamentos.
-
----
-
-## 🚧 Em desenvolvimento
-
-💡 Novos projetos estão chegando...
+⭐ Outros projetos em desenvolvimento...
 
 ---
 
-# 🌐 Contato
+# 🌎 Onde me encontrar
 
 <div align="center">
 
 <a href="https://github.com/guizin104">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
 ---
 
-# 👀 Visitantes
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=guizin104&label=VISITAS&color=A855F7&style=for-the-badge"/>
+![](https://komarev.com/ghpvc/?username=guizin104&color=00F7FF&style=for-the-badge)
 
-</div>
-
----
-
-<div align="center">
-
-## 👻 Obrigado pela visita!
-
-<img src="https://media.tenor.com/4M57Q0j8kS8AAAAi/gengar-pokemon.gif" width="220"/>
-
-⭐ Se gostou dos meus projetos, deixe uma estrela!
-
-</div>
+### ⭐ Obrigado por visitar meu perfil!
 
 </div>
