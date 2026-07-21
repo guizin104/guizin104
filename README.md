@@ -1,68 +1,59 @@
 <div align="center">
 
-# 👋 Olá, eu sou Guilherme
+<img src="assets/banner.png" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%7C+Next.js+%7C+Python;UI%2FUX+Designer;Sempre+aprendendo+algo+novo!" />
+<br><br>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Olá,+eu+sou+Guilherme!;💻+Front-End+Developer;⚛️+React+•+Next.js+•+Python;🚀+Sempre+aprendendo+algo+novo!" />
+
+<br>
+
+<img src="https://media.tenor.com/4M57Q0j8kS8AAAAi/gengar-pokemon.gif" width="140"/>
 
 </div>
 
 ---
 
-# 💻 Sobre mim
+# 👨‍💻 Sobre Mim
 
-```javascript
-const guilherme = {
-    idade: 16,
-    curso: "Técnico em Informática - IFAL",
-    foco: "Front-End",
-    linguagens: [
-        "JavaScript",
-        "TypeScript",
-        "Python"
-    ],
-    frameworks: [
-        "React",
+```ts
+const Guilherme = {
+    🎓 curso: "Técnico em Informática - IFAL",
+    💻 foco: "Front-End Development",
+    🚀 aprendendo: [
         "Next.js",
-        "Tailwind CSS"
+        "Python",
+        "React"
     ],
-    hobbies: [
-        "Robótica 🤖",
-        "Design 🎨",
-        "Programação 💻"
-    ]
+    🤖 robótica: true,
+    🎨 design: true,
+    ☕ café: Infinity
 }
 ```
 
 ---
-<p align="center">
-  <img src="banner.png" width="100%">
-</p>
 
-# 🚀 Stack
+# ⚡ Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,tailwind,nodejs,html,css,git,github,vscode,figma,vercel" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,tailwind,nodejs,html,css,git,github,vscode,figma,vercel&perline=7"/>
 
 </div>
 
 ---
 
-# 📊 Estatísticas
+# 📊 GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guizin104&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=guizin104&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizin104&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizin104&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
-
-# 🔥 Streak
 
 <div align="center">
 
@@ -72,17 +63,13 @@ const guilherme = {
 
 ---
 
-# 🏆 Conquistas
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=guizin104&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=guizin104&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </div>
 
 ---
-
-# 📈 Atividade
 
 <div align="center">
 
@@ -94,25 +81,25 @@ const guilherme = {
 
 # 🚀 Projetos
 
-⭐ FitScore
+### ⭐ FitScore
 
-Sistema Fitness moderno.
+🏋️ Plataforma fitness desenvolvida com React.
 
-⭐ Caderneta
+### ⭐ Caderneta
 
-Sistema para gerenciamento de clientes e pagamentos.
+📒 Sistema de gerenciamento de clientes e pagamentos.
 
-⭐ Outros projetos em desenvolvimento...
+### 🔥 Em desenvolvimento...
+
+Mais projetos chegando em breve.
 
 ---
 
-# 🌎 Onde me encontrar
+# 🌌 Visitantes
 
 <div align="center">
 
-<a href="https://github.com/guizin104">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
+![](https://komarev.com/ghpvc/?username=guizin104&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -120,8 +107,10 @@ Sistema para gerenciamento de clientes e pagamentos.
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=guizin104&color=00F7FF&style=for-the-badge)
+### 👻 Obrigado por visitar meu perfil!
 
-### ⭐ Obrigado por visitar meu perfil!
+<img src="https://media.tenor.com/4M57Q0j8kS8AAAAi/gengar-pokemon.gif" width="180"/>
+
+⭐ Não esqueça de dar uma olhada nos meus repositórios!
 
 </div>
