@@ -1,39 +1,54 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" />
+<img src="./assets/banner.png" width="100%" alt="Banner"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Olá,+eu+sou+Guilherme!;💻+Front-End+Developer;⚛️+React+•+Next.js+•+Python;🚀+Sempre+aprendendo+algo+novo!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=👋+Olá,+eu+sou+Guilherme!;💻+Front-End+Developer;⚛️+React+•+Next.js+•+Python;🚀+Sempre+aprendendo+algo+novo!" />
 
 <br>
 
-<img src="https://media.tenor.com/4M57Q0j8kS8AAAAi/gengar-pokemon.gif" width="140"/>
+<img src="https://media.tenor.com/4M57Q0j8kS8AAAAi/gengar-pokemon.gif" width="170"/>
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre Mim
+# 👨‍💻 Sobre mim
 
 ```ts
 const Guilherme = {
-    🎓 curso: "Técnico em Informática - IFAL",
-    💻 foco: "Front-End Development",
-    🚀 aprendendo: [
-        "Next.js",
-        "Python",
-        "React"
+    nome: "Guilherme",
+    curso: "Técnico em Informática - IFAL",
+    foco: "Front-End",
+    linguagens: [
+        "JavaScript",
+        "TypeScript",
+        "Python"
     ],
-    🤖 robótica: true,
-    🎨 design: true,
-    ☕ café: Infinity
+    frameworks: [
+        "React",
+        "Next.js",
+        "Tailwind CSS"
+    ],
+    ferramentas: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Figma"
+    ],
+    hobbies: [
+        "🤖 Robótica",
+        "🎨 Design",
+        "💻 Programação",
+        "🎮 Games"
+    ]
 }
 ```
 
 ---
 
-# ⚡ Tecnologias
+# ⚡ Tech Stack
 
 <div align="center">
 
@@ -43,17 +58,19 @@ const Guilherme = {
 
 ---
 
-# 📊 GitHub
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=guizin104&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guizin104&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizin104&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizin104&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
+
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -63,13 +80,7 @@ const Guilherme = {
 
 ---
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=guizin104&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
----
+# 📈 Contribuições
 
 <div align="center">
 
@@ -79,27 +90,53 @@ const Guilherme = {
 
 ---
 
-# 🚀 Projetos
-
-### ⭐ FitScore
-
-🏋️ Plataforma fitness desenvolvida com React.
-
-### ⭐ Caderneta
-
-📒 Sistema de gerenciamento de clientes e pagamentos.
-
-### 🔥 Em desenvolvimento...
-
-Mais projetos chegando em breve.
-
----
-
-# 🌌 Visitantes
+# 🏆 Conquistas
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=guizin104&color=blueviolet&style=for-the-badge)
+<img src="https://github-profile-trophy.vercel.app/?username=guizin104&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+# 🚀 Projetos
+
+## ⭐ FitScore
+
+🏋️ Plataforma fitness moderna desenvolvida com React.
+
+---
+
+## ⭐ Caderneta
+
+📒 Sistema para gerenciamento de clientes, compras e pagamentos.
+
+---
+
+## 🚧 Em desenvolvimento
+
+💡 Novos projetos estão chegando...
+
+---
+
+# 🌐 Contato
+
+<div align="center">
+
+<a href="https://github.com/guizin104">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Visitantes
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=guizin104&label=VISITAS&color=A855F7&style=for-the-badge"/>
 
 </div>
 
@@ -107,10 +144,12 @@ Mais projetos chegando em breve.
 
 <div align="center">
 
-### 👻 Obrigado por visitar meu perfil!
+## 👻 Obrigado pela visita!
 
-<img src="https://media.tenor.com/4M57Q0j8kS8AAAAi/gengar-pokemon.gif" width="180"/>
+<img src="https://media.tenor.com/4M57Q0j8kS8AAAAi/gengar-pokemon.gif" width="220"/>
 
-⭐ Não esqueça de dar uma olhada nos meus repositórios!
+⭐ Se gostou dos meus projetos, deixe uma estrela!
+
+</div>
 
 </div>
