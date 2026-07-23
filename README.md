@@ -69,36 +69,6 @@ Sou estudante do **Ensino Médio Técnico em Informática no IFAL** e atuo no de
 > *Mais projetos e repositórios open-source disponíveis em breve no meu perfil.*
 
 ---
-
-## 📊 Estatísticas e Atividade no GitHub
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=guizin104&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizin104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=guizin104&theme=tokyonight&hide_border=true&background=0D1117"/>
-</p>
-
-<br>
-
-### 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guizin104&theme=tokyonight&no-frame=true&margin-w=10&bg_color=0D1117"/>
-</p>
-
-<br>
-
-### 🐍 Histórico de Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 ## 📫 Conecte-se Comigo
 
 <p align="center">
