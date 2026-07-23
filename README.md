@@ -1,12 +1,9 @@
 <div align="center">
 
-# Olá, eu sou o Guilherme 👋
+# Olá, eu sou o Guilherme.
 
 ### 💻 Front-end Developer • React • Next.js • Python & Robótica (OBR)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350" alt="Coding GIF">
-</p>
 
 <p align="center">
   <a href="https://github.com/guizin104">
@@ -31,10 +28,7 @@ Sou estudante do **Ensino Médio Técnico em Informática no IFAL** e atuo no de
 * 🎓 **Formação:** Técnico em Informática em curso no Instituto Federal de Alagoas (IFAL).
 * 💻 **Foco Principal:** Desenvolvimento de aplicações web interativas com **React, Next.js, TypeScript e Tailwind CSS**.
 * 🤖 **Liderança & Robótica:** Programador responsável pela equipe de robótica na **OBR (Olimpíada Brasileira de Robótica)**, desenvolvendo algoritmos de navegação autônoma, leitura de sensores e automação utilizando **Python e C/C++**.
-* 💡 **Filosofia:** Sempre em busca de código limpo (*Clean Code*), melhoria contínua da experiência do usuário (UI/UX) e resolução eficiente de problemas complexos.
-
----
-
+* 
 ## 🛠️ Stack Tecnológico & Competências
 
 <div align="center">
